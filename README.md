@@ -1,3 +1,16 @@
+##########This project is developed to manage th bill submission process in big organization 
+
+
+
+
+
+
+
+useing Python
+
+###############################################################################################
+
+
 from tkinter import*
 import math,random,os
 from  tkinter import messagebox
